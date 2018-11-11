@@ -1,3 +1,6 @@
+
+//Setup of Database and User Auth was done in ProjectDB. Check github repo ProjectDB for code.
+
 <!doctype html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
